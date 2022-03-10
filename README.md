@@ -3,6 +3,6 @@
 Trying something new
 Let's see how it goes. 
 
-![Build README](https://github.com/<YOUR GITHUB USERNAME>/<YOUR GITHUB USERNAME>/workflows/build%5Freadme/badge.svg)
+![Build README](https://github.com/ayushjain01/ayushjain01/workflows/build%5Freadme/badge.svg)
 
 Heheheeh.
