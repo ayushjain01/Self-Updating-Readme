@@ -15,6 +15,6 @@ What I'm writing:
 - This too!
 - This three!
 
-![Build README](https://github.com/ayushjain01/ayushjain01/workflows/Build%20README/badge.svg)
+![Build README](https://github.com/ayushjain01/Readme-Jokes/workflows/Build%20README/badge.svg)
 
 This won't be impacted either. The text above is a GitHub build badge.
