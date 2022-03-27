@@ -33,8 +33,8 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "readme-bot@example.com"
-        git config --global user.name "README-bot"
+        git config --global user.email "ayushganna67@gmail.com"
+        git config --global user.name "ayushjain01"
         git add -A
-        git commit -m "Updated articles" || exit 0
+        git commit -m "Updated Readme" || exit 0
         git push
