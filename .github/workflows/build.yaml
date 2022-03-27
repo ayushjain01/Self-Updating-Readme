@@ -36,42 +36,4 @@ jobs:
         git config --global user.name "ayushjain01"
         git add -A
         git commit -m "Updated Readme" || exit 0
-        git pushname: Build README
-
-on:
-  schedule:
-    - cron: '* * * * *'
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repo
-      uses: actions/checkout@v2
-
-    - name: Use Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: 10.16
-    - run: npm install
-    - run: npm run build --if-present
-    - run: npm test
-      env:
-        CI: true
-
-    - name: Update README
-      run: |-
-        node updateReadme.js
-        cat README.md
-    - name: Commit and push if changed
-      run: |-
-        git diff
-        git config --global user.email "ayushganna67@gmail.com"
-        git config --global user.name "ayushjain01"
-        git add -A
-        git commit -m "Updated Readme" || exit 0
         git push
