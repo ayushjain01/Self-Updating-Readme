@@ -1,11 +1,7 @@
 {
   "name": "Readme-Jokes",
-  "version": "1.0.0",
   "description": "Jokes for your README files",
   "main": "updateReadme.js",
-  "scripts": {
-    "build": "webpack --config ./github/workflows/build.yaml
-  },
   "repository": "#",
   "author": "Ayush Jain",
   "license": "UNLICENSED",
