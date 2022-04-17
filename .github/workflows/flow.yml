@@ -2,7 +2,7 @@ name: flow
 
 on:
   schedule:
-    - cron: "* * * * *" #runs at 00:00 UTC everyday
+    - cron: "* * * * *" 
 
 jobs:
   build:
@@ -10,15 +10,14 @@ jobs:
 
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner.
+        uses: actions/checkout@v2 
       - name: setup python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8 #install the python needed
-      - name: execute py script # run the run.py to get the latest data
+          python-version: 3.x
+      - name: execute py script 
         run: |
           python ../../update.py
-      - name: export index
       - name: Commit and push if changed
         run: |-
           git diff
