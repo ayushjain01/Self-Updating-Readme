@@ -13,7 +13,7 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-How does NASA organize a party?
-They planet.
+Why do scuba divers fall backwards off of the boat?
+Because if they fell forward, they'd still be on the boat.
 
 This won't be impacted either. The text above is a GitHub build badge.# Self-updating READMEge.# Self-updating README
