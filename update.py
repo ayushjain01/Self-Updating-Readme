@@ -16,7 +16,8 @@ line = readme_lines.index("Here's a Joke for you -\n")
 readme_lines[line+1] = jokes[a-1]
 readme_lines[line+2] = jokes[a]
 
-readme_file.seek(0)
+readme_file.close()
+readme_file = open("README.md","w+")
 readme_file.writelines(readme_lines)
 
 readme_file.close()
