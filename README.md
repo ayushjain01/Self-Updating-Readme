@@ -13,8 +13,8 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-How do you solve any equation?
-Multiply both sides by zero.
+What did one plate whisper to the other plate?
+Dinner is on me.
 
 [![Build](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml/badge.svg)](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml)
 
