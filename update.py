@@ -1,7 +1,7 @@
 import random
 
 readme_file = open("README.md","r+")
-jokes_file = open("jokes.txt","r")
+jokes_file = open("Jokes.txt","r")
 
 readme_lines = readme_file.readlines()
 jokes = jokes_file.readlines()
