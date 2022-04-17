@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-Why can’t you trust the king of the jungle?
-Because he is always lion.This won't be impacted either. The text above is a GitHub build badge.# Self-updating READMEge.# Self-updating README
+How do you solve any equation?
+Multiply both sides by zero.
