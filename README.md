@@ -13,8 +13,8 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What's Harry Potter's favourite method of getting down a hill?
-Walking... JK, Rolling.
+What kind of tea is hard to swallow?
+Reality. 
 
 [![Build](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml/badge.svg)](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml)
 
