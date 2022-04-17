@@ -9,12 +9,10 @@ This text won't be change.
 
 The text below will be, though!
 
-What I'm writing:
-
-- This will be replaced
-- This too!
-- This three!
+Here's a Joke for you -
+Can a dog jump higher than a house?
+Well, duh. Houses can’t jump.
 
 ![Build README](https://github.com/ayushjain01/Readme-Jokes/workflows/Build%20README/badge.svg)
 
-This won't be impacted either. The text above is a GitHub build badge.
+This won't be impacted either. The text above is a GitHub build badge.# Self-updating READMEge.# Self-updating README
