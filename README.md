@@ -13,8 +13,8 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What washes up on really small beaches?
-Micro-waves.
+Can a dog jump higher than a house?
+Well, duh. Houses can’t jump.
 
 [![Build](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml/badge.svg)](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml)
 
