@@ -13,8 +13,8 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What do prisoners use to call each other?
-Cell phones!
+Why don’t dinosaurs talk?
+Because they’re dead. 
 
 [![Build](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml/badge.svg)](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml)
 
