@@ -13,8 +13,8 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What are ten things you can always count on?
-Your fingers.
+What are the strongest days of the week?
+Saturday and Sunday. All the others are weekdays.
 
 [![Build](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml/badge.svg)](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml)
 
