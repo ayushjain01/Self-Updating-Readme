@@ -10,8 +10,8 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What did Batman say to Robin before they got in the car?
-Robin, get in the car.
+How do you solve any equation?
+Multiply both sides by zero.
 
 [![Build](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml/badge.svg)](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml)
 
