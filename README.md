@@ -13,9 +13,8 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-Can a dog jump higher than a house?
-Well, duh. Houses can’t jump.
-
+Why can’t you trust the king of the jungle?
+Because he is always lion.
 [![Build](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml/badge.svg)](https://github.com/ayushjain01/Readme-Jokes/actions/workflows/flow.yml)
 
 This won't be impacted either. The text above is a GitHub build badge.# Self-updating READMEge.# Self-updating README
