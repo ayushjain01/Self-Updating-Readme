@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-How do you solve any equation?
-Multiply both sides by zero.
+What are the strongest days of the week?
+Saturday and Sunday. All the others are weekdays.
