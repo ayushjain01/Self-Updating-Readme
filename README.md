@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-How do you solve any equation?
-Multiply both sides by zero.
+Which hand is better to write with?
+Neither, it’s better to write with a pen.
