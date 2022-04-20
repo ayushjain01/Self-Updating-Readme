@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What do you call drunk Pandavas?
-High-Five.
+Why did the invisible man turn down the job offer?
+He couldn’t see himself doing it.
