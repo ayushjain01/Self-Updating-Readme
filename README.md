@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-How does NASA organize a party?
-They planet.
+Can a dog jump higher than a house?
+Well, duh. Houses can’t jump.
