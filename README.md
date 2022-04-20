@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What do prisoners use to call each other?
-Cell phones!
+Why do scuba divers fall backwards off of the boat?
+Because if they fell forward, they'd still be on the boat.
