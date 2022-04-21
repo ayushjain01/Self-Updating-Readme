@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What do prisoners use to call each other?
-Cell phones!
+What kind of tea is hard to swallow?
+Reality. 
