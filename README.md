@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What kind of tea is hard to swallow?
-Reality. 
+What's Harry Potter's favourite method of getting down a hill?
+Walking... JK, Rolling.
