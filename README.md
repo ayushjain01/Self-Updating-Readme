@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-Why can't you trust an atom?
-Because they make up everything.
+What are ten things you can always count on?
+Your fingers.
