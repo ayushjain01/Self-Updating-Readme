@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-Why can’t you trust the king of the jungle?
-Because he is always lion.
+What kind of tea is hard to swallow?
+Reality. 
