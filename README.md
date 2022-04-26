@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What are ten things you can always count on?
-Your fingers.
+How do you solve any equation?
+Multiply both sides by zero.
