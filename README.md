@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-What do you call drunk Pandavas?
-High-Five.
+How does NASA organize a party?
+They planet.
