@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-Why do scuba divers fall backwards off of the boat?
-Because if they fell forward, they'd still be on the boat.
+Why can't you trust an atom?
+Because they make up everything.
