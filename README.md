@@ -13,5 +13,5 @@ This text won't be change.
 The text below will be, though!
 
 Here's a Joke for you -
-Which hand is better to write with?
-Neither, it’s better to write with a pen.
+Why can't you trust an atom?
+Because they make up everything.
