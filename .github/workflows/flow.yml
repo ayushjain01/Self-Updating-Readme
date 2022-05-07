@@ -23,7 +23,7 @@ jobs:
       - name: execute py script   # run update.py to update the README file
         run: |
           python update.py
-      - name: Commit and push if changed    #IMPORTANT - replace with your email and username
+      - name: commit and push    #IMPORTANT - replace with your email and username
         run: |-
           git diff
           git config --global user.email "ayushganna67@gmail.com"   
