@@ -1,9 +1,9 @@
 # Name of workflow
 name: flow
-#Runs at 00:00 on the first day of every month
+#Runs at the 5th minute of every hour, every day
 on:
   schedule:
-    - cron: "00 00 1 * *"   
+    - cron: "5 * * * *"   
     #Use https://crontab.guru/ for cron schedule expression
 
 #steps to carry out 
