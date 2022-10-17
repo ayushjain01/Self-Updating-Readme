@@ -10,7 +10,7 @@ For example, consider the lines below, these lines get updated on the first day 
 
 <pre>My wife asked me to go get 6 cans of Sprite from the grocery store.
 I realized when I got home that I had picked 7 up.
-</pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre>
+</pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre></pre>
 Let’s see how we can build this.
 
 ### Contents:
